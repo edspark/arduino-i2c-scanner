@@ -2,7 +2,7 @@
   "Configurations": [
     {
       "Version": "1.3.0",
-      "URL":"https://raw.githubusercontent.com/edspark/arduino-i2c-scanner/master/Openscale-IoT.ino.merged.bin
+      "URL":"https://github.com/edspark/arduino-i2c-scanner/blob/master/OpenScale-IoT.ino.merged.bin"
     }
   ]
 }
